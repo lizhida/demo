@@ -13,7 +13,7 @@ public class TestController {
 
     @RequestMapping("test")
     public String home() {
-        return "测试docker部署springboot项目-----------，6666成功了";
+        return "测试docker部署springboot项目-----------，我真棒";
     }
 
 
